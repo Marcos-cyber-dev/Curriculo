@@ -4,21 +4,21 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
+  email: ayaritsuka12@gmail.com
+  github: Marcos-cyber-dev
   linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
+  - idiom: portuguese
   - idiom: Russian
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
+  - degree: IFRN
+    time: 2023-
     university: Ionian University
 
   - degree: BSc in Computer Science
